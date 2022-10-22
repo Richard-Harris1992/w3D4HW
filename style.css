@@ -1,0 +1,55 @@
+
+
+* {
+    font-weight: 700;
+    font-family: "Audiowide", sans-serif;
+
+}
+
+body {
+    background-color: beige;
+    padding-left: 15%;
+    padding-right:15% ;
+
+}
+
+a {
+    text-decoration: none;
+    color: rgba(182, 13, 13, 0.91);
+}
+
+footer {
+    color: red;
+}
+
+h1, h2 {
+    font-family: 'Permanent Marker';
+}
+
+.main-intro {
+    display: flex;
+    gap: 10px;
+}
+
+.navBar {
+display: flex;
+justify-content: space-around;
+padding: 5px;
+margin-bottom: 20px;
+background-color: rgba(182, 13, 13, 0.91);
+}
+
+.buttons {
+    color: white;
+}
+
+.photo {
+  
+    height: 300px;
+    width: 300px;
+}
+
+.intro {
+    margin: 0px;
+    font-size: 20px;
+}
