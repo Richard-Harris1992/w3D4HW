@@ -39,7 +39,7 @@ margin-bottom: 20px;
 background-color: rgba(182, 13, 13, 0.91);
 }
 
-.buttons {
+.buttons > a {
     color: white;
 }
 
